@@ -1,0 +1,21 @@
+id,name,category,funding_usd,employees,founded_year,country,revenue_usd,is_profitable
+1,NeoBank,fintech,45000000,320,2019,United States,12000000,false
+2,MedFlow,healthtech,28000000,180,2020,United States,8500000,false
+3,LearnPulse,edtech,5000000,45,2021,Mexico,1200000,false
+4,CloudMetrics,saas,120000000,850,2017,United States,65000000,true
+5,ShopStream,ecommerce,15000000,120,2020,Brazil,4500000,false
+6,SynthMind,ai,200000000,1200,2018,United States,95000000,true
+7,PayLatam,fintech,35000000,250,2019,Colombia,18000000,true
+8,GenomeHealth,healthtech,80000000,500,2016,United Kingdom,32000000,true
+9,CodeCampus,edtech,12000000,90,2021,Spain,3000000,false
+10,DataVault,saas,60000000,400,2018,Germany,28000000,true
+11,FreshCart,ecommerce,8000000,65,2022,Mexico,900000,false
+12,AIDocAssist,ai,150000000,900,2019,United States,55000000,true
+13,CryptoFlow,fintech,22000000,150,2020,Singapore,6000000,false
+14,TeleDoc,healthtech,42000000,280,2019,Brazil,15000000,false
+15,SkillForge,edtech,3000000,25,2023,Argentina,200000,false
+16,InfraStack,saas,95000000,650,2017,United States,48000000,true
+17,QuickDeliver,ecommerce,18000000,200,2021,Chile,5500000,false
+18,VisionAI,ai,300000000,1500,2016,United Kingdom,120000000,true
+19,InsurTech360,fintech,55000000,380,2018,Mexico,22000000,true
+20,BioTrack,healthtech,65000000,420,2017,Germany,30000000,true
