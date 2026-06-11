@@ -25,12 +25,12 @@
 - [x] Compared with `solutions/pyforge/repository.py`
 
 ## Phase 3 — Pydantic: Validation and Analysis
-- [ ] `pyforge/schemas.py` created with validators
-- [ ] `pyforge/config.py` created with Settings
-- [ ] `pyforge/analysis.py` created with analysis functions
-- [ ] Positive validation works
-- [ ] Negative validation rejects invalid data
-- [ ] Compared with solutions
+- [x] `pyforge/schemas.py` created with validators
+- [x] `pyforge/config.py` created with Settings
+- [x] `pyforge/analysis.py` created with analysis functions
+- [x] Positive validation works
+- [x] Negative validation rejects invalid data
+- [x] Compared with solutions
 
 ## Phase 4 — File I/O: Reading and Writing
 - [ ] `pyforge/io/readers.py` created (CSV, JSON, auto-detect)
