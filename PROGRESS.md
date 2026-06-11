@@ -17,12 +17,12 @@
 - [x] Compared with `solutions/pyforge/models.py`
 
 ## Phase 2 — OOP: Repository Pattern
-- [ ] `pyforge/repository.py` created with Copilot
-- [ ] Full CRUD (add, get, get_all, update, delete)
-- [ ] Search and filters (search, filter_by_category, filter_by_profitable, sort_by)
-- [ ] Special methods implemented (__len__, __contains__, __iter__)
-- [ ] Validation executed successfully
-- [ ] Compared with `solutions/pyforge/repository.py`
+- [x] `pyforge/repository.py` created with Copilot
+- [x] Full CRUD (add, get, get_all, update, delete)
+- [x] Search and filters (search, filter_by_category, filter_by_profitable, sort_by)
+- [x] Special methods implemented (__len__, __contains__, __iter__)
+- [x] Validation executed successfully
+- [x] Compared with `solutions/pyforge/repository.py`
 
 ## Phase 3 — Pydantic: Validation and Analysis
 - [ ] `pyforge/schemas.py` created with validators
