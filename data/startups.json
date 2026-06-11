@@ -1,0 +1,22 @@
+[
+  {"id": 1, "name": "NeoBank", "category": "fintech", "funding_usd": 45000000, "employees": 320, "founded_year": 2019, "country": "United States", "revenue_usd": 12000000, "is_profitable": false},
+  {"id": 2, "name": "MedFlow", "category": "healthtech", "funding_usd": 28000000, "employees": 180, "founded_year": 2020, "country": "United States", "revenue_usd": 8500000, "is_profitable": false},
+  {"id": 3, "name": "LearnPulse", "category": "edtech", "funding_usd": 5000000, "employees": 45, "founded_year": 2021, "country": "Mexico", "revenue_usd": 1200000, "is_profitable": false},
+  {"id": 4, "name": "CloudMetrics", "category": "saas", "funding_usd": 120000000, "employees": 850, "founded_year": 2017, "country": "United States", "revenue_usd": 65000000, "is_profitable": true},
+  {"id": 5, "name": "ShopStream", "category": "ecommerce", "funding_usd": 15000000, "employees": 120, "founded_year": 2020, "country": "Brazil", "revenue_usd": 4500000, "is_profitable": false},
+  {"id": 6, "name": "SynthMind", "category": "ai", "funding_usd": 200000000, "employees": 1200, "founded_year": 2018, "country": "United States", "revenue_usd": 95000000, "is_profitable": true},
+  {"id": 7, "name": "PayLatam", "category": "fintech", "funding_usd": 35000000, "employees": 250, "founded_year": 2019, "country": "Colombia", "revenue_usd": 18000000, "is_profitable": true},
+  {"id": 8, "name": "GenomeHealth", "category": "healthtech", "funding_usd": 80000000, "employees": 500, "founded_year": 2016, "country": "United Kingdom", "revenue_usd": 32000000, "is_profitable": true},
+  {"id": 9, "name": "CodeCampus", "category": "edtech", "funding_usd": 12000000, "employees": 90, "founded_year": 2021, "country": "Spain", "revenue_usd": 3000000, "is_profitable": false},
+  {"id": 10, "name": "DataVault", "category": "saas", "funding_usd": 60000000, "employees": 400, "founded_year": 2018, "country": "Germany", "revenue_usd": 28000000, "is_profitable": true},
+  {"id": 11, "name": "FreshCart", "category": "ecommerce", "funding_usd": 8000000, "employees": 65, "founded_year": 2022, "country": "Mexico", "revenue_usd": 900000, "is_profitable": false},
+  {"id": 12, "name": "AIDocAssist", "category": "ai", "funding_usd": 150000000, "employees": 900, "founded_year": 2019, "country": "United States", "revenue_usd": 55000000, "is_profitable": true},
+  {"id": 13, "name": "CryptoFlow", "category": "fintech", "funding_usd": 22000000, "employees": 150, "founded_year": 2020, "country": "Singapore", "revenue_usd": 6000000, "is_profitable": false},
+  {"id": 14, "name": "TeleDoc", "category": "healthtech", "funding_usd": 42000000, "employees": 280, "founded_year": 2019, "country": "Brazil", "revenue_usd": 15000000, "is_profitable": false},
+  {"id": 15, "name": "SkillForge", "category": "edtech", "funding_usd": 3000000, "employees": 25, "founded_year": 2023, "country": "Argentina", "revenue_usd": 200000, "is_profitable": false},
+  {"id": 16, "name": "InfraStack", "category": "saas", "funding_usd": 95000000, "employees": 650, "founded_year": 2017, "country": "United States", "revenue_usd": 48000000, "is_profitable": true},
+  {"id": 17, "name": "QuickDeliver", "category": "ecommerce", "funding_usd": 18000000, "employees": 200, "founded_year": 2021, "country": "Chile", "revenue_usd": 5500000, "is_profitable": false},
+  {"id": 18, "name": "VisionAI", "category": "ai", "funding_usd": 300000000, "employees": 1500, "founded_year": 2016, "country": "United Kingdom", "revenue_usd": 120000000, "is_profitable": true},
+  {"id": 19, "name": "InsurTech360", "category": "fintech", "funding_usd": 55000000, "employees": 380, "founded_year": 2018, "country": "Mexico", "revenue_usd": 22000000, "is_profitable": true},
+  {"id": 20, "name": "BioTrack", "category": "healthtech", "funding_usd": 65000000, "employees": 420, "founded_year": 2017, "country": "Germany", "revenue_usd": 30000000, "is_profitable": true}
+]
