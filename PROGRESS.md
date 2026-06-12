@@ -58,12 +58,12 @@
 - [x] Compared with solutions
 
 ## Phase 7 — CLI with Typer + Rich
-- [ ] `pyforge/cli.py` created with commands (load, stats, convert, pipeline)
-- [ ] `pyforge/__main__.py` created
-- [ ] `main.py` updated
-- [ ] `python -m pyforge --help` works
-- [ ] `python -m pyforge load data/startups.csv` shows table
-- [ ] `python -m pyforge stats data/startups.json` shows analysis
-- [ ] `python -m pyforge convert data/startups.csv output/report.md` works
-- [ ] `python -m pyforge pipeline data/startups.csv` works
-- [ ] Compared with solutions
+- [x] `pyforge/cli.py` created with commands (load, stats, convert, pipeline)
+- [x] `pyforge/__main__.py` created
+- [x] `main.py` updated
+- [x] `python -m pyforge --help` works
+- [x] `python -m pyforge load data/startups.csv` shows table
+- [x] `python -m pyforge stats data/startups.json` shows analysis
+- [x] `python -m pyforge convert data/startups.csv output/report.md` works
+- [x] `python -m pyforge pipeline data/startups.csv` works
+- [x] Compared with solutions
