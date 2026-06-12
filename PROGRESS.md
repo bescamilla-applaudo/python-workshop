@@ -48,14 +48,14 @@
 - [x] Compared with solutions
 
 ## Phase 6 — Testing with pytest
-- [ ] `tests/conftest.py` with shared fixtures
-- [ ] `tests/test_models.py` — all pass
-- [ ] `tests/test_schemas.py` — all pass
-- [ ] `tests/test_repository.py` — all pass
-- [ ] `tests/test_analysis.py` — all pass
-- [ ] `tests/test_pipeline.py` — all pass
-- [ ] `pytest tests/ -v` — all green
-- [ ] Compared with solutions
+- [x] `tests/conftest.py` with shared fixtures
+- [x] `tests/test_models.py` — all pass
+- [x] `tests/test_schemas.py` — all pass
+- [x] `tests/test_repository.py` — all pass
+- [x] `tests/test_analysis.py` — all pass
+- [x] `tests/test_pipeline.py` — all pass
+- [x] `pytest tests/ -v` — all green
+- [x] Compared with solutions
 
 ## Phase 7 — CLI with Typer + Rich
 - [ ] `pyforge/cli.py` created with commands (load, stats, convert, pipeline)
