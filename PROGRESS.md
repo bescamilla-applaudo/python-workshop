@@ -41,11 +41,11 @@
 - [x] Compared with solutions
 
 ## Phase 5 — Advanced: Decorators & Pipeline
-- [ ] `pyforge/decorators.py` created (@timer, @log_call, @retry, @validate_non_empty)
-- [ ] `pyforge/pipeline.py` created with generators
-- [ ] Transformations (add_funding_tier, normalize_country) work
-- [ ] Full pipeline executed successfully
-- [ ] Compared with solutions
+- [x] `pyforge/decorators.py` created (@timer, @log_call, @retry, @validate_non_empty)
+- [x] `pyforge/pipeline.py` created with generators
+- [x] Transformations (add_funding_tier, normalize_country) work
+- [x] Full pipeline executed successfully
+- [x] Compared with solutions
 
 ## Phase 6 — Testing with pytest
 - [ ] `tests/conftest.py` with shared fixtures
