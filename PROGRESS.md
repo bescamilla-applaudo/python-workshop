@@ -33,12 +33,12 @@
 - [x] Compared with solutions
 
 ## Phase 4 — File I/O: Reading and Writing
-- [ ] `pyforge/io/readers.py` created (CSV, JSON, auto-detect)
-- [ ] `pyforge/io/writers.py` created (CSV, JSON, Markdown, auto-detect)
-- [ ] Reads `data/startups.csv` correctly
-- [ ] Reads `data/startups.json` correctly
-- [ ] Exports to Markdown
-- [ ] Compared with solutions
+- [x] `pyforge/io/readers.py` created (CSV, JSON, auto-detect)
+- [x] `pyforge/io/writers.py` created (CSV, JSON, Markdown, auto-detect)
+- [x] Reads `data/startups.csv` correctly
+- [x] Reads `data/startups.json` correctly
+- [x] Exports to Markdown
+- [x] Compared with solutions
 
 ## Phase 5 — Advanced: Decorators & Pipeline
 - [ ] `pyforge/decorators.py` created (@timer, @log_call, @retry, @validate_non_empty)
